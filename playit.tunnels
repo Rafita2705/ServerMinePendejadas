@@ -37,7 +37,7 @@
           "agent_id": "67b7382b-1618-4d22-ad8a-d9adb2b5b978",
           "agent_name": "PendejadasServer",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 28100
         },
         "type": "agent"
       },
